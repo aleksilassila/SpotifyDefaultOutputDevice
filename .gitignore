@@ -1,0 +1,4 @@
+.theos/
+headers/
+spotify.h
+.DS_Store
